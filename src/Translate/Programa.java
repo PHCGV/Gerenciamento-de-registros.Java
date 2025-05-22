@@ -26,9 +26,9 @@ public class Programa {
 	        lista.add(new Efetivo("Pitoco", "Chinês", 20, 2115.0, 110));
 	        lista.add(new Estagio("Raiam", "Russo", 33, 370.69, 60));
 	        
-	        clientes.add(new Clientes("Workana", new ArrayList<>(), "Inglês"));
-	        clientes.add(new Clientes("LinkedIn", new ArrayList<>(), "Espanhol"));
-	        clientes.add(new Clientes("Senai Cimatec", new ArrayList<>(), "Qualquer lingua"));
+	        clientes.add(new Clientes("Empresa X", new ArrayList<>(), "Inglês"));
+	        clientes.add(new Clientes("Empresa Y", new ArrayList<>(), "Espanhol"));
+	        clientes.add(new Clientes("Faculdade X", new ArrayList<>(), "Qualquer lingua"));
 
 	        // --------------------------------------------------------------------------------------------------------------------
 	        
